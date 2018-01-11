@@ -1,4 +1,4 @@
-
+import org.apache.spark.sql.SparkSession
 
 object StartSparkProcess {
   def main(args: Array[String]): Unit = {
